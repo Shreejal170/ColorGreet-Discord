@@ -4,6 +4,11 @@
 
 ColorGreet is a Discord bot designed to provide a vibrant and dynamic welcome experience for new members joining your server. The bot implements a dynamic LED effect using role colors, creating an eye-catching and lively welcome. ColorGreet also includes features to prevent misuse and repeated welcomes.
 
+## Preview
+![preview](preview.gif)
+
+
+
 ## Features
 
 - **Dynamic LED Effect**: ColorGreet assigns a special "Welcome" role to new members, creating a dynamic LED effect by changing the role's color multiple times before removing it.
